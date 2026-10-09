@@ -1,6 +1,6 @@
 # Egzekutor — instalator
 
-Gotowe wersje aplikacji dla Windows.
+Instalator aplikacji Egzekutor dla Windows.
 
 ## Instalacja
 
